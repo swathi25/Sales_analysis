@@ -1,5 +1,5 @@
 # Sales_analysis_python
-
+Sales Domain
 Exploratory Data Analysis
 •	Problem Statement : To find the targeted audience for a particular pan Indian store.
 •	Process Followed :  1) Requirement gathering. The data given as a CSV file.
